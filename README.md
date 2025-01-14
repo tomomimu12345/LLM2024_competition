@@ -1,5 +1,7 @@
 # LLM2024コンペ
 
+https://huggingface.co/tomo1222/Gemma2-27b-ft-jp-r64_alpha64
+
 予選4位 : 3.83
 
 決勝2位 : 3.73835
