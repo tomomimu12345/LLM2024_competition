@@ -436,7 +436,7 @@ tokenizer.push_to_hub("tomo1222/"+project_name, token = token)
 | 1 | 16 | 16 | 1 | bad |  |
 | 2 | 32 | 32 | 1 | 3 Shot : score 3.5 |  |
 | 3 | 128 | 128 | 1 | メモリ不足 |  |
-| 4 | 32 | 16 | 1 | 14 shots : score 3.63 |  |
+| 4 | 32 | 64 | 1 | 14 shots : score 3.63 |  |
 | 5 | 32 | 64 | 1+2 | 14 shots : score 3.48 (追加データ100+66) |  |
 | 6 | 32 | 64 | 1 | 24 shots : score 3.43 |  |
 | 7 | 32 | 64 | 1 | 14 shots : score 3.54 |  |
